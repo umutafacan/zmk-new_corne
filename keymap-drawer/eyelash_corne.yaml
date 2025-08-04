@@ -72,10 +72,10 @@ layers:
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - RGB BRI
-  - RGB BRD
+  - $$mdi:volume-high$$
+  - $$mdi:volume-off$$
   - $$mdi:arrow-up-bold$$
-  - RGB SPI
+  - $$mdi:play-pause$$
   - HOME
   - PG UP
   - {t: '$$mdi:transfer$$', type: trans}
@@ -86,7 +86,7 @@ layers:
   - RGB EFF
   - $$mdi:volume-off$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - RGB SPD
+  - $$mdi:volume-low$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
