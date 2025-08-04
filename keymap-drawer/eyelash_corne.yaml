@@ -119,7 +119,7 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - '&mkp MB4'
   - $$mdi:skip-previous$$
-  - MUTE
+  - $$mdi:volume-off$$
   - $$mdi:skip-next$$
   - {t: '-', s: _}
   - {t: '=', s: +}
@@ -132,7 +132,7 @@ layers:
   - OUT BLE
   - $$mdi:apple-keyboard-caps$$
   - GLOBE
-  - '&mkp MB5'
+  - $$mdi:play-pause$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-low$$
   - _
